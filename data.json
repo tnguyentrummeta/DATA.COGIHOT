@@ -3,36 +3,34 @@
     "id": 1,
     "type": "video",
     "title": "Em gái cover nhạc buồn",
-    "thumb": "https://i.imgur.com/abcd123.jpg",
-    "video": "https://example.com/video1.mp4",
-    "time": "2 giờ trước",
-    "duration": "02:35",
+    "thumb": "https://picsum.photos/id/1011/800/450",
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "created": "2026-01-29T12:00:00",
     "hd": true
   },
   {
     "id": 2,
     "type": "image",
     "title": "Ảnh gái xinh buổi tối",
-    "thumb": "https://i.imgur.com/xyz789.jpg",
-    "image": "https://example.com/image1.jpg",
-    "time": "Hôm qua"
+    "thumb": "https://picsum.photos/id/1027/800/450",
+    "image": "https://picsum.photos/id/1027/1200/800",
+    "created": "2026-01-28T18:30:00"
   },
   {
     "id": 3,
     "type": "video",
     "title": "Anime chill đêm khuya",
-    "thumb": "https://i.imgur.com/anime456.jpg",
-    "video": "https://example.com/video2.mp4",
-    "time": "3 ngày trước",
-    "duration": "01:12",
+    "thumb": "https://picsum.photos/id/1043/800/450",
+    "video": "https://www.w3schools.com/html/movie.mp4",
+    "created": "2026-01-27T21:15:00",
     "hd": false
   },
   {
     "id": 4,
     "type": "image",
     "title": "Cosplay ngoài trời",
-    "thumb": "https://i.imgur.com/cos001.jpg",
-    "image": "https://example.com/image2.jpg",
-    "time": "1 tuần trước"
+    "thumb": "https://picsum.photos/id/1050/800/450",
+    "image": "https://picsum.photos/id/1050/1200/800",
+    "created": "2026-01-25T10:00:00"
   }
 ]
