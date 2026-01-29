@@ -1,21 +1,38 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "type": "video",
-    "title": "Video demo MP4",
-    "thumb": "https://picsum.photos/600/338?1",
-    "src": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "duration": "2:53",
-    "time": "1 giờ trước",
+    "title": "Em gái cover nhạc buồn",
+    "thumb": "https://i.imgur.com/abcd123.jpg",
+    "video": "https://example.com/video1.mp4",
+    "time": "2 giờ trước",
+    "duration": "02:35",
     "hd": true
   },
   {
-    "id": "2",
+    "id": 2,
     "type": "image",
-    "title": "Ảnh demo JPG",
-    "thumb": "https://picsum.photos/600/338?2",
-    "src": "https://picsum.photos/1200/800",
-    "time": "2 giờ trước",
+    "title": "Ảnh gái xinh buổi tối",
+    "thumb": "https://i.imgur.com/xyz789.jpg",
+    "image": "https://example.com/image1.jpg",
+    "time": "Hôm qua"
+  },
+  {
+    "id": 3,
+    "type": "video",
+    "title": "Anime chill đêm khuya",
+    "thumb": "https://i.imgur.com/anime456.jpg",
+    "video": "https://example.com/video2.mp4",
+    "time": "3 ngày trước",
+    "duration": "01:12",
     "hd": false
+  },
+  {
+    "id": 4,
+    "type": "image",
+    "title": "Cosplay ngoài trời",
+    "thumb": "https://i.imgur.com/cos001.jpg",
+    "image": "https://example.com/image2.jpg",
+    "time": "1 tuần trước"
   }
 ]
