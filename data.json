@@ -1,36 +1,38 @@
 [
   {
-    "id": 1,
+    "id": "v001",
     "type": "video",
-    "title": "Em gái cover nhạc buồn",
+    "title": "Video mẫu – Dark UI cao cấp",
     "thumb": "https://picsum.photos/id/1011/800/450",
     "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "created": "2026-01-29T12:00:00",
-    "hd": true
+    "hd": true,
+    "created": "2026-01-29T12:00:00"
   },
   {
-    "id": 2,
-    "type": "image",
-    "title": "Ảnh gái xinh buổi tối",
-    "thumb": "https://picsum.photos/id/1027/800/450",
-    "image": "https://picsum.photos/id/1027/1200/800",
-    "created": "2026-01-28T18:30:00"
-  },
-  {
-    "id": 3,
+    "id": "v002",
     "type": "video",
-    "title": "Anime chill đêm khuya",
-    "thumb": "https://picsum.photos/id/1043/800/450",
+    "title": "Video mẫu – Giao diện giống app",
+    "thumb": "https://picsum.photos/id/1015/800/450",
     "video": "https://www.w3schools.com/html/movie.mp4",
-    "created": "2026-01-27T21:15:00",
-    "hd": false
+    "hd": false,
+    "created": "2026-01-29T09:30:00"
   },
   {
-    "id": 4,
+    "id": "i001",
     "type": "image",
-    "title": "Cosplay ngoài trời",
-    "thumb": "https://picsum.photos/id/1050/800/450",
-    "image": "https://picsum.photos/id/1050/1200/800",
-    "created": "2026-01-25T10:00:00"
+    "title": "Ảnh mẫu – Ảnh dọc chất lượng cao",
+    "thumb": "https://picsum.photos/id/1025/800/450",
+    "image": "https://picsum.photos/id/1025/1200/1800",
+    "hd": true,
+    "created": "2026-01-28T22:15:00"
+  },
+  {
+    "id": "i002",
+    "type": "image",
+    "title": "Ảnh mẫu – Phong cảnh thiên nhiên",
+    "thumb": "https://picsum.photos/id/1039/800/450",
+    "image": "https://picsum.photos/id/1039/1600/1000",
+    "hd": false,
+    "created": "2026-01-27T18:40:00"
   }
 ]
