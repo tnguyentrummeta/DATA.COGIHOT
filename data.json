@@ -1,34 +1,21 @@
 [
   {
-    "id": 1,
-    "title": "Video mẫu – icon đồng hồ giống YouTube",
+    "id": "1",
+    "type": "video",
+    "title": "Video demo MP4",
+    "thumb": "https://picsum.photos/600/338?1",
+    "src": "https://www.w3schools.com/html/mov_bbb.mp4",
     "duration": "2:53",
     "time": "1 giờ trước",
-    "hd": true,
-    "thumb": "https://picsum.photos/id/1011/600/338"
+    "hd": true
   },
   {
-    "id": 2,
-    "title": "Video mẫu – UI sạch, không hiệu ứng",
-    "duration": "6:35",
+    "id": "2",
+    "type": "image",
+    "title": "Ảnh demo JPG",
+    "thumb": "https://picsum.photos/600/338?2",
+    "src": "https://picsum.photos/1200/800",
     "time": "2 giờ trước",
-    "hd": true,
-    "thumb": "https://picsum.photos/id/1015/600/338"
-  },
-  {
-    "id": 3,
-    "title": "Video mẫu – dark theme cao cấp",
-    "duration": "0:38",
-    "time": "20 giờ trước",
-    "hd": false,
-    "thumb": "https://picsum.photos/id/1021/600/338"
-  },
-  {
-    "id": 4,
-    "title": "Video mẫu – bố cục web lớn",
-    "duration": "6:05",
-    "time": "1 ngày trước",
-    "hd": true,
-    "thumb": "https://picsum.photos/id/1035/600/338"
+    "hd": false
   }
 ]
