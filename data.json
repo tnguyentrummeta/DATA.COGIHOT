@@ -9,30 +9,18 @@
     "created": "2026-01-29T12:00:00"
   },
   {
-    "id": "v002",
-    "type": "video",
-    "title": "Video mẫu – Giao diện giống app",
-    "thumb": "https://picsum.photos/id/1015/800/450",
-    "video": "https://www.w3schools.com/html/movie.mp4",
-    "hd": false,
-    "created": "2026-01-29T09:30:00"
-  },
-  {
-    "id": "i001",
+    "id": "a001",
     "type": "image",
-    "title": "Ảnh mẫu – Ảnh dọc chất lượng cao",
+    "title": "Album ảnh – Du lịch Đà Lạt",
     "thumb": "https://picsum.photos/id/1025/800/450",
-    "image": "https://picsum.photos/id/1025/1200/1800",
+    "images": [
+      "https://picsum.photos/id/1025/1200/1800",
+      "https://picsum.photos/id/1031/1200/1800",
+      "https://picsum.photos/id/1035/1200/1800",
+      "https://picsum.photos/id/1040/1200/1800"
+    ],
     "hd": true,
     "created": "2026-01-28T22:15:00"
-  },
-  {
-    "id": "i002",
-    "type": "image",
-    "title": "Ảnh mẫu – Phong cảnh thiên nhiên",
-    "thumb": "https://picsum.photos/id/1039/800/450",
-    "image": "https://picsum.photos/id/1039/1600/1000",
-    "hd": false,
-    "created": "2026-01-27T18:40:00"
   }
+]  }
 ]
