@@ -1,25 +1,21 @@
-[
-  {
-    "id": "v001",
-    "type": "video",
-    "title": "Video mẫu – Dark UI cao cấp",
-    "thumb": "https://picsum.photos/id/1011/800/450",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "hd": true,
-    "created": "2026-01-29T12:00:00"
-  },
-  {
-    "id": "a001",
-    "type": "image",
-    "title": "Album ảnh – Du lịch Đà Lạt",
-    "thumb": "https://picsum.photos/id/1025/800/450",
-    "images": [
-      "https://picsum.photos/id/1025/1200/1800",
-      "https://picsum.photos/id/1031/1200/1800",
-      "https://picsum.photos/id/1035/1200/1800",
-      "https://picsum.photos/id/1040/1200/1800"
-    ],
-    "hd": true,
-    "created": "2026-01-28T22:15:00"
-  }
-]
+{
+  "id": "v001",
+  "type": "video",
+  "title": "Thanh Thảo, hs cấp 2 – COGIHOT",
+  "thumb": "https://cogihot.wuaze.com/ThanhThao/thanhthao.jpg?i=1",
+  "videos": [
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-2.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-3.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-4.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-5.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-6.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-7.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-8.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-13.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-14.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-15.mp4?i=1",
+    "https://cogihot.wuaze.com/ThanhThao/emnhihoichancuu-16.mp4?i=1"
+  ],
+  "created": "2026-01-30T13:30:00"
+}
